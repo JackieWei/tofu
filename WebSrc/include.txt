@@ -1,0 +1,29 @@
+
+Tofu framework is a full function web framework including MVC, AMD, data-binding, react, UI controls, extension API,  
+building tools, release tools. Based on jQuery, Angular, React, Less, Uglifyjs, Require, D3, Bootstrap. 
+Tools based on nodejs, gulp.
+
+Based on JQuery - 2.x
+
+---- Include -----
+
+---- Files in C:\tools\documents ----
+Java
+Nodejs - tool, build
+Less - replace css
+UglifyJS - compress js, html
+At.js - @name
+Angular - MVC
+require - AMD
+Bootstrap - build, architecture
+D3 - chart
+react - View modularize
+easy-ui - some view?
+
+Nodejs
+Grunt
+Gulp
+
+---- To Replace ---
+
+UI5  - (Open UI5)
